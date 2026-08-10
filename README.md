@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**jgarc826/jgarc826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Jessy 👋
+ 
+Aspiring software engineer, currently doing data science work.
+ 
+**Data Science → Software Engineering**
+ 
+Student at UC Riverside. I like building things and working with data — right now that mostly means data science, but I'm working toward full-stack / software engineering.
+ 
+### Currently
+Working on data science projects — *(swap this line for a 1-2 sentence description of what you're actually building, e.g. "Analyzing X dataset to predict Y" or "Building ML models for Z")*
+ 
+### Skills
+`Python` `Pandas` `NumPy` `scikit-learn` `SQL` *(add/remove what fits — e.g. R, TensorFlow, Jupyter, Tableau)*
+ 
+### Links
+[X / Twitter](https://twitter.com/jessyga12) · *(add LinkedIn, portfolio, or email here)*
+ 
+---
+📍 Riverside, CA
