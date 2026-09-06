@@ -15,7 +15,7 @@
 - 🎓 Data science major at **UC Riverside**, working toward a software engineering career
 - 🤖 Building **[Canvas-Student](https://github.com/Dekamayaro/Canvas-Student)** through my UCR fellowship — an AI agent that helps students manage their Canvas coursework
 - 🐝 Contributing upstream to **[wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf)** — a WebAssembly runtime for eBPF programs
-- 📍 Riverside, CA
+
 
 ## 🚀 What I've shipped
 
